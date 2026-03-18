@@ -1,8 +1,20 @@
-# Plain Template
-We are using the template from https://github.com/MXHX7199/MXHX7199.github.io
+# Jiayu Chen — Personal Website
 
-##Comments below from the author of the template:
+This repository contains the source for Jiayu Chen’s personal academic portfolio site.
 
-If you are using it, I'd be happy to hear from you! You can drop me a line at ([link](https://mavroud.is))!
+## Overview
 
-You should copy this repo to your github account, and then modify it with your info!
+The site includes:
+- A short introduction and research focus
+- Contact links (GitHub, LinkedIn, email)
+- Resume link
+- Project highlights
+
+## Main Files
+
+- `index.html` — Main homepage content
+- `photo.jpg` — Profile image shown on homepage
+- `JiayuChen_resume.pdf` — Resume file linked in navigation and content
+- `LICENSE.txt` — License information
+
+
